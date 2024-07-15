@@ -1,0 +1,12 @@
+Change Pin Designator/Name:  Old Designator=TB1-5 Old Name=D2 New Designator =D8 New Name=11
+Change Pin Designator/Name:  Old Designator=TB1-6 Old Name=D3 New Designator =D7 New Name=10
+Change Pin Designator/Name:  Old Designator=TB1-7 Old Name=D4 New Designator =A5 New Name=24
+Change Pin Designator/Name:  Old Designator=TB1-8 Old Name=D5 New Designator =A4 New Name=23
+Change Pin Designator/Name:  Old Designator=TB1-10 Old Name=D7 New Designator =D2 New Name=5
+Change Pin Designator/Name:  Old Designator=TB1-11 Old Name=D8 New Designator =D3 New Name=6
+Change Pin Designator/Name:  Old Designator=TB1-14 Old Name=D11/MOSI New Designator =A0 New Name=19
+Change Pin Designator/Name:  Old Designator=TB1-15 Old Name=D12/MISO New Designator =D13/SCK New Name=16
+Change Pin Designator/Name:  Old Designator=TB1-16 Old Name=D13/SCK New Designator =D4 New Name=7
+Change Pin Designator/Name:  Old Designator=TB1-19 Old Name=A0 New Designator =D5 New Name=8
+Change Pin Designator/Name:  Old Designator=TB1-23 Old Name=A4 New Designator =D11/MOSI New Name=14
+Change Pin Designator/Name:  Old Designator=TB1-24 Old Name=A5 New Designator =D12/MISO New Name=15
